@@ -17,5 +17,5 @@ Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
 ### Svolgimento
 1. Genero un numero random tramite math sia per l'utente che per il computer
-2. Creo due array vuoti dove andare ad inserire i risultati dei dadi.
-3. Tramite un if genero un alert che informa l'utente se ha vinto o perso.
+2. Genero i due risultati e li stampo a schermo
+3. Tramite un if scopro chi ha vinto e lo stampo anch'esso a schermo.
